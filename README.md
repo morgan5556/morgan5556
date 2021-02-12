@@ -1,4 +1,16 @@
-### Hi there 👋
+### 
+I'm a sixth form student from England who studies Computer Science at A-Level. From September, I am hoping to study Computer Science at university.
+
+For my A-Level, I am using Visual Basic. My most favourite project that I have built was for my Computer Science coursework. For this, I built a quiz platform in Visual Basic which involved SQL and network programming. 
+
+Languages:                  Visual Basic, Python, SQL
+I'm currently learning:     Python (re-learning)
+I'm currently working on:   Making small games in Pygame
+
+You can find me at the following:
+Discord - morgan5556#3969
+Twitter - morgan_5556
+
 
 <!--
 **morgan5556/morgan5556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
