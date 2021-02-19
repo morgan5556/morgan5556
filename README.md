@@ -6,7 +6,7 @@ For my A-Level, I am using Visual Basic. My most favourite project that I have b
 **Programming Information:**
 * Languages:                  Visual Basic, Python, SQL
 * I'm currently learning:     Python (re-learning)
-* I'm currently working on:   Making small games in Pygame
+* I'm currently working on:   MorganBot (Discord Bot)
 
 **Where to find me:**
 * Discord: morgan5556#3969
