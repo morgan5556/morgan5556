@@ -1,15 +1,13 @@
 ### Morgan
-I'm a sixth form student from England who studies Computer Science at A-Level. From September, I am hoping to study Computer Science at university.
-
-For my A-Level, I am using Visual Basic. My most favourite project that I have built was for my Computer Science coursework. For this, I built a quiz platform in Visual Basic which involved SQL and network programming. 
+I'm a soon to be university student from England who will be studying BSc Computer Science at Edge Hill University.
 
 **Programming Information:**
-* Languages:                  Visual Basic, Python, SQL
-* I'm currently learning:     Python (re-learning)
+* Languages:                  Visual Basic, Python, SQL, JavaScript, HTML, CSS
+* I'm currently learning:     JavaScript and discord.js
 * I'm currently working on:   MorganBot (Discord Bot)
 
 **Where to find me:**
-* Discord: morgan5556#3969
+* Discord: morgan5556#4418
 * Twitter: morgan_5556
 
 
