@@ -1,5 +1,5 @@
 ### Morgan
-I'm a soon to be university student from England who will be studying BSc Computer Science at Edge Hill University.
+University student studying BSc Computer Science at Edge Hill Univeristy.
 
 **Programming Information:**
 * Languages:                  Visual Basic, Python, SQL, JavaScript, HTML, CSS
