@@ -9,7 +9,7 @@ University student studying BSc Computer Science at Edge Hill Univeristy.
 **Where to find me:**
 * Discord: morgan5556#4418
 * Twitter: morgan_5556
-* Email: contact@morganlyons.xyz
+* Email: morgan@morganlyons.xyz
 
 
 <!--
