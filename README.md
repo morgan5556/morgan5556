@@ -4,7 +4,7 @@ University student studying BSc Computer Science at Edge Hill Univeristy.
 **Programming Information:**
 * Languages:                  Visual Basic, Python, SQL, JavaScript, HTML, CSS
 * I'm currently learning:     Java and R
-* I'm currently working on:   Web Design and Development coursework, Noughts and Crosses AI using the Minimax Algorithm
+* I'm currently working on:   Web Design and Development coursework, WordleSolver algorithm in Python
 
 **Where to find me:**
 * Discord: morgan5556#4418
