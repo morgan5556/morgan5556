@@ -1,10 +1,10 @@
 ### Morgan
-University student studying BSc Computer Science at Edge Hill Univeristy.
+University student studying BSc (Hons) Computer Science at Edge Hill Univeristy.
 
 **Programming Information:**
-* Languages:                  Visual Basic, Python, SQL, JavaScript, HTML, CSS
-* I'm currently learning:     Java and R
-* I'm currently working on:   Web Design and Development coursework, WordleSolver algorithm in Python
+* Languages:                  Java, Visual Basic, Python, SQL, JavaScript, HTML, CSS
+* I'm currently learning:     Java
+* I'm currently working on:   Coursework!
 
 **Where to find me:**
 * Discord: morgan5556#4418
