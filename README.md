@@ -1,16 +1,13 @@
-### Morgan Lyons
-A second year student at Edge Hill University studying BSc (Hons) Computer Science
+### Morgan Lyons BSc (Hons)
+Graduate of Computer Science with a first-class honours at Edge Hill University
 
-**Programming Information:**
-* Languages:                  Java, Visual Basic, Python, SQL (MySQL), JavaScript, HTML, CSS
-* I'm currently learning:     Java
-* I'm currently working on:   JumpersForGoalposts, a football application for my coursework!
+🔭 I’m currently working on **football simulations using statistical techniques and machine learning**
 
-**Where to find me:**
+👯 I’m looking to collaborate on **anything!**
+
+📫 How to reach me:
 * LinkedIn: https://www.linkedin.com/in/morganlyons1/
-* Twitter: morgan_5556
 * Email: morgan.lyons06@gmail.com
-
 <!--
 **morgan5556/morgan5556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
